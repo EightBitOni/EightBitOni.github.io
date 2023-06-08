@@ -175,17 +175,16 @@ you can adjust the width and height, also you can get the embed link from the si
 
 vocab view
 
+Note: vocab view is a community plugin in obsidian called vocabulary view
+
 ```
 vocaview-list1
 word1: explanation1
 word2: explanation2
 ```
 
-```vocaview-list1
-word1: explanation1
-word2: explanation2
+![vacabview1](../images/vocabview1.PNG)
 
-```
 
 multiple choice
 
