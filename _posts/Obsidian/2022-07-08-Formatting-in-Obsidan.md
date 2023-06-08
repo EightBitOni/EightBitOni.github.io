@@ -183,7 +183,6 @@ word1: explanation1
 word2: explanation2
 ```
 
-![vacabview1](../images/vocabview1.PNG)
 
 
 multiple choice
