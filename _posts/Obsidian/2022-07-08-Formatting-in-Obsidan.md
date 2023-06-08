@@ -11,9 +11,9 @@ tags: [obsidian,markdown] # all lower case
 
 ### links and mentions
 
-- https://www.youtube.com/watch?v=d8fXEhWy_rY&t=223s
-- https://github.com/ieshreya/Obsidian-Cheat-Sheet
-- https://facedragons.com/personal-development/obsidian-markdown-cheatsheet/
+https://www.youtube.com/watch?v=d8fXEhWy_rY&t=223s 
+https://github.com/ieshreya/Obsidian-Cheat-Sheet
+https://facedragons.com/personal-development/obsidian-markdown-cheatsheet/
 
 
 # Headers and sub headers
@@ -182,7 +182,7 @@ vocaview-list1
 word1: explanation1
 word2: explanation2
 ```
-
+![vv1](../../assets/images/vacabview1.PNG)
 
 
 multiple choice
