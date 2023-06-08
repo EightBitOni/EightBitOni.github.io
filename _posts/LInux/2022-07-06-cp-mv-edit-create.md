@@ -4,7 +4,6 @@ author: EightBitOni
 date: 2022-06-07 00:00:00 -0600 # year, day, month
 categories: [Linux,Commands]
 tags: [linux,commands] # all lower case
-pin: true
 
 ---
 
