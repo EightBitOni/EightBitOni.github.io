@@ -11,9 +11,11 @@ tags: [obsidian,markdown] # all lower case
 
 ### links and mentions
 
-https://www.youtube.com/watch?v=d8fXEhWy_rY&t=223s 
-https://github.com/ieshreya/Obsidian-Cheat-Sheet
-https://facedragons.com/personal-development/obsidian-markdown-cheatsheet/
+[https://www.youtube.com/watch?v=d8fXEhWy_rY&t=223s ](https://www.youtube.com/watch?v=d8fXEhWy_rY&t=223s )
+
+[https://github.com/ieshreya/Obsidian-Cheat-Sheet](https://github.com/ieshreya/Obsidian-Cheat-Sheet)
+
+[https://facedragons.com/personal-development/obsidian-markdown-cheatsheet/](https://facedragons.com/personal-development/obsidian-markdown-cheatsheet/)
 
 
 # Headers and sub headers
