@@ -5,7 +5,7 @@ author: EightBitOni
 date: 2022-06-08 00:00:00 -0600 # year, month, day
 categories: [Obsidian, Markdown]
 tags: [obsidian,markdown] # all lower case
-
+toc: false
 ---
 
 
