@@ -1,5 +1,5 @@
 ---
 layout: categories
 icon: fa-solid fa-list-ul
-order: 2
+order: 1
 ---

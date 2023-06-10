@@ -1,5 +1,5 @@
 ---
 layout: tags
 icon: fa-solid fa-bookmark
-order: 3
+order: 2
 ---
