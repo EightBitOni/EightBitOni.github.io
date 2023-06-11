@@ -3,8 +3,8 @@
 title: Cisco NAT Translation # change the title
 author: EightBitOni
 date: 2022-06-10 00:00:00 -0600 # year, month, day
-categories: [Cisco,Switching]
-tags: [cisco,switching] # all lower case
+categories: [Cisco,Routing]
+tags: [cisco,routing] # all lower case
 pin: false
 
 ---
