@@ -1,7 +1,7 @@
 ---
 title: Linux cp, mv, edit, create commands
 author: EightBitOni
-date: 2022-06-07 00:00:00 -0600 # year, day, month
+date: 2023-06-07 00:00:00 -0600 # year, day, month
 categories: [Linux,Commands]
 tags: [linux,commands] # all lower case
 
